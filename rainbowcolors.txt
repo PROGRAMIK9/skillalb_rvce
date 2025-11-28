@@ -3,4 +3,8 @@ Orange is the second colour of the rainbow.
 Yellow is the third colour of the Rainbow.
 Green is the fourth colour of the rainbow.
 Blue is the fifth colour.
+<<<<<<< HEAD
 Violet .
+=======
+Indigo.
+>>>>>>> 4a3bf46 (indigo)
