@@ -5,5 +5,10 @@ Green is the fourth colour of the rainbow.
 Blue is the fifth colour.
 Violet .
 Indigo.
+<<<<<<< HEAD
 Meow
 I am alt  and i'm Making changes in this file 
+=======
+
+Aaryamann
+>>>>>>> origin
