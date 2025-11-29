@@ -1,1 +1,4 @@
-Brown is not a color.
+Brown is not a colour.
+Gray is also not a colour.
+Black is not a colour.
+Pink is not a colour.
