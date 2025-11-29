@@ -1,0 +1,6 @@
+Red is the first color
+orange is the second color
+yellow is the third color 
+green is the fourth color
+blue is the fifth color 
+indigo is the sixth color
