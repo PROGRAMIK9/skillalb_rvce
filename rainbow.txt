@@ -4,3 +4,5 @@ yellow is the third color
 green is the fourth color
 blue is the fifth color 
 indigo is the sixth color
+violet is the seventh color
+These are the colors of the rainbow
